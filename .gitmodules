@@ -1,0 +1,3 @@
+[submodule "deepfake-detection"]
+	path = deepfake-detection
+	url = git@github.com:OrthoDex/deepfake-detection.git
